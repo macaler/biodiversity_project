@@ -6,4 +6,4 @@ I used Python 3.8 to complete this project, in addtion to Jupyter Notebook. Pack
 
 I decided to write up my results as a report of sorts, rather than the Microsoft PowerPoint presentation that Codecademy recommended; I have included the report as "biodiversity_Codecademy_capstone_project.pdf."
 
-My Jupyter Notebook print-out is included as "biodiversity_MAC_sols.pdf"
+My Jupyter Notebook print-out is included as "biodiversity_MAC_sols.pdf". This could be a little hard to read, and I just realized that an uploaded Jupyter Notebook saves the outputs of the last time the cell was run, so that you can see the output of the cells without me having to upload the data files; so, I have uploaded the actual Jupyter Notebook file as well as "biodiversity_MAC_sols.ipynb."
